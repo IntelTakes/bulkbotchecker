@@ -40,4 +40,8 @@ Check list in any text file (one twitter handle per line):
 
 #### ToDo:
 
+<<<<<<< HEAD
 Add functionality to output results to file. 
+=======
+Add functionality to output results to file. 
+>>>>>>> 11fdb0155a4a9a353792dc61f0897e7d7caf4e0a
