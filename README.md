@@ -7,6 +7,8 @@ Script automating twitter handles verifiaction process through Botometer API. Pr
 
 `pip install -r requirements.txt`
 
+Don't forget to put API keys into script. 
+
 ## Usage:
 
 Check single user:
