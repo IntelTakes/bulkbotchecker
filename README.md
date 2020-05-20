@@ -1,13 +1,14 @@
 # BulkBotChecker 
 ![Logo](https://i.ibb.co/25dMcTQ/what-is-bot-traffic-cover-dcfd8e825fc46554db1393c5efb749b1-removebg-preview-1-removebg-preview.png)
 
-Script automating twitter handles verifiaction process through Botometer API. Program automatically enriches data with information gathered from Twitter and generates final report. 
+Script automating twitter accounts verification process with Botometer API. It automatically enriches data with creation date, a number of friends and followers, verified status, and URL from Twitter bio.
 
 ## Installation
 
 `pip install -r requirements.txt`
 
 Don't forget to put API keys into script. 
+Script requires standard Twitter API keys and Botometer RapidApi account (https://rapidapi.com/OSoMe/api/botometer-pro)
 
 ## Usage:
 
