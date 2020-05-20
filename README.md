@@ -1,4 +1,4 @@
-# BulkBotChecker 
+# bulkBotChecker 
 ![Logo](https://i.ibb.co/25dMcTQ/what-is-bot-traffic-cover-dcfd8e825fc46554db1393c5efb749b1-removebg-preview-1-removebg-preview.png)
 
 Script automating twitter accounts verification process with Botometer API. It automatically enriches data with creation date, a number of friends and followers, verified status, and URL from Twitter bio.
